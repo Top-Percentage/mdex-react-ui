@@ -1,0 +1,9 @@
+{
+  "name": "mdex-react-ui",
+  "version": "0.0.1",
+  "description": "The front end UI written for isomorphic react for the Master Dex web application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Top-Percentage/mdex-react-ui.git"
+  }
+}
